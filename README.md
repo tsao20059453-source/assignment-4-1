@@ -1,4 +1,6 @@
+this is the full code of the homework 4-1
 
+```python
 import math
 import numpy as np
 import matplotlib.pyplot as plt
@@ -39,3 +41,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
